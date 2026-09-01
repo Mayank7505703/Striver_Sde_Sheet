@@ -1,0 +1,43 @@
+class Solution {
+    public int conquer(int arr[] , int start , int mid , int end){
+        int idx1=start;
+        int idx2=mid+1;
+        int k=0;
+        int ans=0;
+        int c[]=new int[end-start+1];
+        while(idx1<=mid && idx2<=end){
+            if(arr[idx1]<=arr[idx2]){
+                c[k++]=arr[idx1++];
+            }
+            else{
+                ans+=(mid-idx1+1);
+                c[k++]=arr[idx2++];
+            }
+        }
+        while(idx1<=mid){
+            c[k++]=arr[idx1++];
+        }
+        while(idx2<=end){
+            c[k++]=arr[idx2++];
+        }
+        
+        for(int i=0;i<c.length;i++){
+            arr[start+i]=c[i];
+        }
+        return ans;
+    }
+    public int divide(int start , int end , int[] arr){
+        if(start>=end){
+            return 0;
+        }
+        int mid= (start+end)/2;
+        int l=divide(start , mid , arr);
+        int r=divide(mid+1 , end, arr);
+        int m=conquer(arr ,start, mid , end);
+        return l+r+m;
+    }
+    public int inversionCount(int arr[]) {
+        // code here
+        return divide(0 , arr.length-1 , arr);
+    }
+}
