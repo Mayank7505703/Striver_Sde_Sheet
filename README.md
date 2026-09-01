@@ -26,13 +26,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
