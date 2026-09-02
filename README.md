@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
+| [0994-rotting-oranges](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
