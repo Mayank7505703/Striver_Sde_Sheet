@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0542-01-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0994-rotting-oranges) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0733-flood-fill) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0547-number-of-provinces) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
