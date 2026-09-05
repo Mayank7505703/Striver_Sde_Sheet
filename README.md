@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0733-flood-fill) |
+| [0860-lemonade-change](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/1020-number-of-enclaves) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
