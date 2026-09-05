@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
