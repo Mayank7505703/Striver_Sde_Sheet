@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/1020-number-of-enclaves) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
