@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
