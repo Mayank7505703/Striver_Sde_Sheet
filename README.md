@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0074-search-a-2d-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0088-merge-sorted-array) |
