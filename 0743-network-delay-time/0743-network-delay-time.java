@@ -14,54 +14,51 @@ class Solution {
         List<List<Pair>> adj = new ArrayList<>();
 
         // Nodes are 1 to n
-        for(int i = 0; i <= n; i++){
+        for(int i = 0; i <= n; i++) {
             adj.add(new ArrayList<>());
         }
 
         // Create graph
-        for(int i = 0; i < edges.length; i++){
+        for(int i = 0; i < edges.length; i++) {
             int u = edges[i][0];
             int v = edges[i][1];
-            int d = edges[i][2];
+            int w = edges[i][2];
 
-            adj.get(u).add(new Pair(v, d));
+            adj.get(u).add(new Pair(v, w));
         }
 
-        // Distance array
         int[] dis = new int[n + 1];
 
-        Arrays.fill(dis, Integer.MAX_VALUE);
+        for(int i = 0; i <= n; i++) {
+            dis[i] = Integer.MAX_VALUE;
+        }
 
-        // Priority Queue: (node, distance)
         PriorityQueue<Pair> q =
-            new PriorityQueue<>(
-                (a, b) -> Integer.compare(a.second, b.second)
-            );
+            new PriorityQueue<>((a, b) -> Integer.compare(a.second, b.second));
 
         dis[k] = 0;
         q.add(new Pair(k, 0));
 
-      
         while(!q.isEmpty()) {
 
-            Pair front = q.poll();
+            Pair front = q.remove();
 
             int node = front.first;
-            int distance = front.second;
+            int wt = front.second;
 
-           
-            if(distance > dis[node]){
+            // Optional optimization
+            if(wt > dis[node]) {
                 continue;
             }
 
             for(Pair i : adj.get(node)) {
 
                 int adjNode = i.first;
-                int adjDis = i.second;
+                int adjWt = i.second;
 
-                if(distance + adjDis < dis[adjNode]) {
+                if(dis[adjNode] > wt + adjWt) {
 
-                    dis[adjNode] = distance + adjDis;
+                    dis[adjNode] = wt + adjWt;
 
                     q.add(new Pair(adjNode, dis[adjNode]));
                 }
@@ -70,9 +67,9 @@ class Solution {
 
         int max = 0;
 
-        for(int i = 1; i <= n; i++){
+        for(int i = 1; i <= n; i++) {
 
-            if(dis[i] == Integer.MAX_VALUE){
+            if(dis[i] == Integer.MAX_VALUE) {
                 return -1;
             }
 
