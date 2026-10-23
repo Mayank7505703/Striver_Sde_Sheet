@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0042-trapping-rain-water) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
