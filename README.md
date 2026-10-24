@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0070-climbing-stairs) |
+| [0507-perfect-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0507-perfect-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
