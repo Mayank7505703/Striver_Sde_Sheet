@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0876-middle-of-the-linked-list) |
