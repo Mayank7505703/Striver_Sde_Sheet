@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0507-perfect-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -107,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -131,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/3483-unique-3-digit-even-numbers) |
