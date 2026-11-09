@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0733-flood-fill) |
