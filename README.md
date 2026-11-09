@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0229-majority-element-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0876-middle-of-the-linked-list) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0507-perfect-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
