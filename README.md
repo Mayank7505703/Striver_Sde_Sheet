@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0507-perfect-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/Mayank7505703/Striver_Sde_Sheet/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
